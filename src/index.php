@@ -48,6 +48,11 @@
         <a href="index.php">Home</a>
         <a href="aboutus.php">About Us</a>
         <a href="contactus.php">Contact Us</a>
+        <a href="ex1.php">exercise 1</a>
+        <a href="ex3.php">exercise 3</a>
+         <a href="ex4.php">exercise 4</a>
+
+
     </nav>
 </header>
 
