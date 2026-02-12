@@ -46,8 +46,8 @@
     <p>Your go-to source for web development tutorials</p>
     <nav>
         <a href="index.php">Home</a>
-        <a href="aboutus.php">About Us</a>
-        <a href="contactus.php">Contact Us</a>
+        <a href="About Us.php">About Us</a>
+        <a href="Contact Us.php">Contact Us</a>
         <a href="ex1.php">exercise 1</a>
         <a href="ex3.php">exercise 3</a>
          <a href="ex4.php">exercise 4</a>
